@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>标题</title>
+    <url>/2019/10/29/template/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>分类1</category>
+        <category>分类2</category>
+      </categories>
+      <tags>
+        <tag>标签1</tag>
+        <tag>标签2</tag>
+        <tag>标签3</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>RNA_seq_WYH</title>
     <url>/2019/10/29/RNA_seq_WYH/</url>
     <content><![CDATA[<h1 id="RNA-seq-WYH"><a href="#RNA-seq-WYH" class="headerlink" title="RNA_seq_WYH"></a>RNA_seq_WYH</h1><blockquote>
